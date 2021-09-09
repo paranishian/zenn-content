@@ -2,7 +2,7 @@
 title: "リングフィットアドベンチャーの記録で友達と競える仕組みを作った"
 emoji: "🏋️‍♀️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ['GAS', 'JavaScript', 'Slack', '自動化']
+topics: ['GAS', 'JavaScript', 'Slack', '自動化', 'Bot']
 published: true
 ---
 
