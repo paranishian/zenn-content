@@ -34,7 +34,7 @@ published: true
 
 # 🎯 技術的なポイント
 
-![](https://storage.googleapis.com/zenn-user-upload/9d21085e3a4054f49360e1da.png)
+![](https://storage.googleapis.com/zenn-user-upload/612ac8536809490dc3791424.png)
 
 使っているサービスは以下のとおりです。
 - pipedream
