@@ -222,3 +222,8 @@ Cloudinary等の画像加工サービスを使って余分な部分（アイコ�
 
 ぼくが参加しているSlackコミュニティを貼っておきます。興味があればどうぞ。
 https://community.camp-fire.jp/projects/view/280040
+
+追伸：
+Zenn初記事でしたがとても反響をいただけて嬉しかったです。
+これからも個人開発や自動化についてゆるりと発信していこうと思います。
+https://twitter.com/paranishian/status/1436089917491212294
